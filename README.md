@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi, I'm Khairya Zedan 👋
 
-<!--
-**khairyazedan/khairyazedan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer passionate about building real-world web applications.
+Currently expanding into .NET, C#, and Cloud technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Frontend**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
+
+**Databases**
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+**Currently Learning**
+![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Web Security](https://img.shields.io/badge/-Web%20Security-FF6B6B?style=flat&logo=hackthebox&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+| Project | Tech | Description |
+|---------|------|-------------|
+| [Estate Hub](#) | React, Node.js, MongoDB | Full-stack real estate platform with auth & APIs |
+| [X-Clone](https://github.com/khairyazedan/SocialMedia_NextApp_MySQL) | Next.js, TypeScript, MySQL | Full-stack social media app |
+| [dotnet CRUD API](https://github.com/khairyazedan/dotnet-sql-api-crud) | ASP.NET Core, EF Core, SQL Server | REST API with full CRUD operations |
+| [Portfolio](https://react-tailwind-portfolio-green.vercel.app/) | React, Tailwind CSS | Personal portfolio website |
+
+---
+
+## 📜 Certifications
+
+- 🏅 Build with AI – Google (2026) — GCP & AI fundamentals
+- 🎓 Open Source Applications Development – NTI (2025–2026)
+
+---
+
+## 📬 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khairya-zedan)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://react-tailwind-portfolio-green.vercel.app/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/khairyazedan)
