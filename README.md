@@ -56,7 +56,7 @@ Currently expanding into .NET, C#, and Cloud technologies.
 
 ---
 
-## 🧱 CS Fundamentals
+## 📖 Deep Dives
 
 | Topic | Language | Description |
 |-------|----------|-------------|
