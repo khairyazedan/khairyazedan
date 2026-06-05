@@ -39,31 +39,57 @@ Also growing into web security with a security-first mindset — approaching dev
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
+**Testing & Quality**
+
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+**Design & Deployment**
+
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
 **Tools**
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
+**☁️ Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+
 **Currently Learning**
 
-![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Web Security](https://img.shields.io/badge/-Web%20Security-FF6B6B?style=flat&logo=hackthebox&logoColor=white)
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-412991?style=flat&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-00A67E?style=flat&logo=openai&logoColor=white)
+![System Design](https://img.shields.io/badge/-System%20Design-0052CC?style=flat&logo=diagrams.net&logoColor=white)
 
 ---
 
 ## 🚀 Projects
 
-| Project | Tech | Description |
-|---------|------|-------------|
-| [Estate Hub](#) | React, Node.js, MongoDB | Full-stack real estate platform with auth & APIs |
-| [X-Clone](https://github.com/khairyazedan/SocialMedia_NextApp_MySQL) | Next.js, TypeScript, MySQL | Full-stack social media app |
-| [dotnet CRUD API](https://github.com/khairyazedan/dotnet-sql-api-crud) | ASP.NET Core, EF Core, SQL Server | REST API with full CRUD operations |
-| [Portfolio](https://react-tailwind-portfolio-green.vercel.app/) | React, Tailwind CSS | Personal portfolio website |
+### Full Stack Apps
+| Project | Tech | Description | Live |
+|---------|------|-------------|------|
+| [Estate Hub](#) | React, Node.js, MongoDB | Full-stack real estate platform with auth & APIs | 🔜 |
+| [AI Recipe Generator](https://github.com/khairyazedan/AI-Recipe-Generator-App-PERN-Stack) | React, Node.js, PostgreSQL | AI-powered recipe app — PERN stack | 🔜 |
+| [X-Clone](https://github.com/khairyazedan/SocialMedia_NextApp_MySQL) | Next.js, TypeScript, MySQL | Full-stack social media app | 🔜 |
+| [MERN Note Taking App](https://github.com/khairyazedan/MERN-Stack-Note-Tacking-App) | React, Node.js, MongoDB | Note management with full CRUD | 🔜 |
+
+### Practice & Frontend
+| Project | Tech | Description | Live |
+|---------|------|-------------|------|
+| [Mobile App Landing Page](https://github.com/khairyazedan/mobile-app-landing-page) | React, Vite, Tailwind | Responsive mobile app landing page | [🔗](https://mobile-app-landing-page-eight.vercel.app/) |
+| [dotnet CRUD API](https://github.com/khairyazedan/dotnet-sql-api-crud) | ASP.NET Core, EF Core, SQL Server | REST API with full CRUD operations | 🔜 |
+| [Portfolio](https://react-tailwind-portfolio-green.vercel.app/) | React, Tailwind CSS | Personal portfolio website | [🔗](https://react-tailwind-portfolio-green.vercel.app/) |
 
 ---
 
-## 🧱 CS Fundamentals
+## 🔬 Code Quality & Architecture
 
 | Topic | Language | Description |
 |-------|----------|-------------|
