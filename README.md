@@ -1,6 +1,10 @@
 # Hi, I'm Khairya Zedan 👋
-Full Stack Developer passionate about building real-world web applications.
-Currently expanding into .NET, C#, and Cloud technologies.
+
+Passionate full-stack developer with a unique background in commerce and fashion design — bringing a creative and analytical perspective into tech. Driven by curiosity about how digital systems work and how they can be improved.
+
+Currently building full-stack applications with the MERN stack and expanding into .NET, C#, and Cloud technologies. Combines strong technical skills with a sharp eye for design and user experience.
+
+Also growing into web security with a security-first mindset — approaching development like an attacker to ensure every layer is resilient, every input is validated, and every system is built to last.
 
 ---
 
@@ -10,6 +14,7 @@ Currently expanding into .NET, C#, and Cloud technologies.
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
@@ -22,6 +27,7 @@ Currently expanding into .NET, C#, and Cloud technologies.
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
 
@@ -31,6 +37,7 @@ Currently expanding into .NET, C#, and Cloud technologies.
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 **Tools**
 
@@ -56,7 +63,7 @@ Currently expanding into .NET, C#, and Cloud technologies.
 
 ---
 
-## 📖 Deep Dives
+## 🧱 CS Fundamentals
 
 | Topic | Language | Description |
 |-------|----------|-------------|
