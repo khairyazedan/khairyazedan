@@ -1,10 +1,9 @@
 # Hi, I'm Khairya Zedan 👋
 
-Passionate full-stack developer with a unique background in commerce and fashion design — bringing a creative and analytical perspective into tech. Driven by curiosity about how digital systems work and how they can be improved.
-
-Currently building full-stack applications with the MERN stack and expanding into .NET, C#, and Cloud technologies. Combines strong technical skills with a sharp eye for design and user experience.
-
-Also growing into web security with a security-first mindset — approaching development like an attacker to ensure every layer is resilient, every input is validated, and every system is built to last.
+Full-Stack Developer | E-Commerce, Web Security & AI Automation
+Combining a background in commerce and fashion design with tech precision to build high-converting, scalable e-commerce platforms using the MEAR/N stack (React, Angular, Node.js, MongoDB) and AI automation (n8n, APIs, AI agents).
+Focused on secure checkout flows, robust inventory architectures, payload validation, and resilient systems.
+Looking to scale your online store, automate e-commerce workflows, or secure your digital shop? connect and let’s grow your business efficiently and securely!
 
 ---
 
